@@ -1,10 +1,10 @@
-print("Loading GUI, Please Wait.")
+print("Loading Glock-Hub, Please Wait.")
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
-Title = "Untitled Arsenal Script",
-Text = "Subscribe = -Visualz", 
+Title = "Glock Hub",
+Text = "d; arcaved", 
 
-Duration = 10 
+Duration = 5 
 })
 
 wait(10)
